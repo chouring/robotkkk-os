@@ -1,2 +1,13 @@
-# i will study os with this project
+# a-tiny-os
+
+references：
+
+Mit 6.828
+
+Thu ucore
+
+Berkeley CS162 lecture
+
+and...
+
 
