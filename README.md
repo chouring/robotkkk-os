@@ -10,4 +10,6 @@ Berkeley CS162 lecture
 
 and...
 
+for studying os...
+
 
