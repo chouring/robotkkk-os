@@ -1,6 +1,6 @@
 # a-tiny-os
 
-references：
+## References
 
 Mit 6.828 / 6.S081
 
